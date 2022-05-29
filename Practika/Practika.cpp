@@ -34,6 +34,14 @@ int main()
 	}
 
 
+	if (fileWithText.is_open() and (fileWithText.peek() == EOF))  // если файл открылся и первый символ это конец файла
+	{
+		cout << "Файл пустой\n" << "Повторите попытку\n";
+		exit(0);
+		cout << endl;
+	}
+
+
 	string str;
 	string text = "";
 
