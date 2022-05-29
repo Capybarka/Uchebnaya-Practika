@@ -26,6 +26,13 @@ int main()
 	ifstream fileWithText;  // прочитать из файла
 	fileWithText.open(pathText);
 
+	if (!fileWithText.is_open())
+	{
+		cout << "ERROR" << endl << "Не удалось открыть файл" << endl << "Повторите попытку\n";
+		exit(0);
+		cout << endl;
+	}
+
 
 	string str;
 	string text = "";
