@@ -14,6 +14,7 @@ vector <string> split(string text);
 vector <string> clear(vector <string> words);
 vector <string> sort(vector <string> words);
 
+
 int main()
 {
 	setlocale(LC_ALL, "Russian");
