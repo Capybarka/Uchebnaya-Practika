@@ -22,8 +22,8 @@ _Пример выходного файла с результатом_
 - Количество слов в тексте
 - Время сортировки
 - Статистика (количество слов каждой длины)
-
-
+- &nbsp;  
+&nbsp;
 ![](https://sun9-5.userapi.com/s/v1/ig2/Uk0JisHK6uPsGJl6ssMLFh2NqQ-Bnlk6vWUuDw9L7c_5KnaDfsTysdRvoXjIlE1igmdb2M6adF2kczSzsRoCK4is.jpg?size=1089x783&quality=96&type=album)
 
 _Пример выходного файла с анализом текста_
