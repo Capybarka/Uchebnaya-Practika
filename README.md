@@ -13,3 +13,4 @@
 - Количество слов в тексте
 - Время сортировки
 - Статистику (количество слов каждой длины)
+https://sun9-60.userapi.com/s/v1/ig2/VgmtiA3W3nk0fybayEa4Qyxy6V-9Ddmq5i-qf-uGogNW-0ue9DNv8E3z2hq8DcwqWdDR_qlWmR9jvCqk6b3OVW35.jpg?size=900x852&quality=96&type=album
