@@ -6,7 +6,7 @@ Many Russians decide to receive good education, start their career or just spend
 
 Количество слов в тексте: 498
 
-Время сортировки: 0.081 секунд
+Время сортировки: 0.091 секунд
 
 Статистика (количество слов каждой длины): 
 Количество слов длины 1 - 13
