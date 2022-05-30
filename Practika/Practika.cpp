@@ -69,6 +69,7 @@ int main()
 	{
 		fileResult << *i_word << endl;
 	}
+
 	fileResult.close();
 
 	cout << "\nТекст:\n" << endl << text << endl;
