@@ -9,7 +9,7 @@
 using namespace std;
 
 int count_words(string text);
-bool isLetter(char x);
+bool check(char x);
 vector <string> split(string text);
 vector <string> clear(vector <string> words);
 vector <string> sort(vector <string> words);
@@ -115,12 +115,13 @@ int main()
 }
 
 
-bool isLetter(char x)  // функция проверяет, входит ли символ в латинский алфавит
+bool check(char x) // функция проверяет, является ли символ буквой или цифрой
 {
-	if ((x >= 'A' && x <= 'Z') || (x >= 'a' && x <= 'z'))
+	if (((x <= '9') and (x >= '1')) or ((x >= 'A' and x <= 'Z') or (x >= 'a' and x <= 'z')))
 	{
 		return true;
 	}
+
 	else
 	{
 		return false;
